@@ -60,6 +60,16 @@ Your query must:
 
 ---
 
+🧩 Expected Output
+name	price	category
+Wireless Mouse	24.99	Accessories
+Mechanical Keyboard	89.00	Accessories
+USB-C Hub	34.50	Accessories
+
+---
+
+
+
 ## ✍️ Your Task
 
 Write a SQL query that fulfills the requirements.
