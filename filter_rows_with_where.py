@@ -5,7 +5,7 @@ def select_specific_columns():
     conn = sqlite3.connect("example.db")
     cursor = conn.cursor()
 
-    # SQL query for Challenge #1
+    # SQL query for Challenge #2
     query = "SELECT name, price, category FROM products WHERE category = 'Accessories'"
 
     cursor.execute(query)
